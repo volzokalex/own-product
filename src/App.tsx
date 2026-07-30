@@ -68,10 +68,10 @@ function App() {
         </h1>
 
         <p className="animate-fade-rise-delay mt-8 max-w-2xl text-base leading-relaxed text-muted-foreground sm:text-lg">
-          We'll teach you the skills. This is my new product — built with AI in
-          the Sqills AI Certification program, where you learn to create custom
-          solutions, automate your work, and bring ideas to life just by writing
-          a prompt in the right tool.
+          We'll teach you the skills. The Sqills AI program shows you the path
+          and helps you build them — so you can create custom solutions,
+          automate your work, and bring ideas to life just by writing a prompt
+          in the right tool.
         </p>
 
         <Button
